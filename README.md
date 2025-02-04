@@ -1,1 +1,1 @@
-# Delta
+# Delta.
