@@ -1,2 +1,2 @@
 # Delta.
-This is the delta fiel
+This is the delta file
